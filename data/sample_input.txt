@@ -1,1 +1,9 @@
+baseline,50
+baseline,60
+baseline,55
+current,120
+current,130
+current,125
+
+# data_type, metric_value
 
